@@ -6,3 +6,6 @@
 	4 Keys only
 	
 	Varying delay so that it would not be tracked as a bot
+
+# PROBLEMS:
+	
