@@ -9,3 +9,7 @@
 
 # PROBLEMS:
 	
+	Could not determine when to press keys and when to release it.
+		1. When pressing a key the color of the key changes so it makes it hard
+			for the bot to differentiate them when doing pixel by pixel.
+		POSSIBLE SOLUTION: Screenshots
